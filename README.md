@@ -7,10 +7,10 @@ your manifest _after_ you require backbone.js.
 
 Every trigger will be printed in your web console, in the following format:
 
-> className (id): event
+<code> className (id): event </code>
 
 Class names include:
-*Model
-*Collection
-*View
-*Router
+* Model
+* Collection
+* View
+* Router
